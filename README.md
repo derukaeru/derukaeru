@@ -1,11 +1,11 @@
-Hello! call me "dale"
-**_______________________________________________**
+Hello! call me "dale" \n
+
 he/him **|** 17 y/o **|** lowercase enthusiast
-**_______________________________________________**
+
 
 - 🔭 I’m currently working on game jams and 
 - 🌱 I’m currently learning more tech stacks
-**_______________________________________________**
+
 
 _Tech Stack_:
 HTML **|** CSS **|** Javascript
