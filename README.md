@@ -11,7 +11,10 @@
 ### _Tech Stack_:
 
 HTML **|** CSS **|** Javascript
+
 Python (learning)
+
 Godot **|** GDScript
+
 C/C++ (beginner)
 
