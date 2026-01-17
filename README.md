@@ -8,7 +8,7 @@
 - 🌱 want to learn more tech stacks
 
 ---
-### _Tech Stack_:
+**_Tech Stack_**:
 
 HTML **|** CSS **|** Javascript
 
