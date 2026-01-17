@@ -1,6 +1,5 @@
 ## hello! call me "dale"
 
----
 he/him **|** 17 y/o **|** lowercase enthusiast
 
 ---
