@@ -1,4 +1,4 @@
-### hello! call me "dale"
+## hello! call me "dale"
 
 ---
 he/him **|** 17 y/o **|** lowercase enthusiast
@@ -14,4 +14,3 @@ Python (learning)
 Godot **|** GDScript
 C/C++ (beginner)
 
----
