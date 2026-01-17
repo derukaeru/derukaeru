@@ -4,8 +4,8 @@
 
 ---
 
-- 🔭 currently working on game jams and 
-- 🌱 want to learn more tech stacks
+🔭 currently working on game jams and 
+🌱 want to learn more tech stacks
 
 ---
 **_Tech Stack_**:
