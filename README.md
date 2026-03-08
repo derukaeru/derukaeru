@@ -12,7 +12,7 @@ he/him **|** 17 y/o **|** lowercase enthusiast<br/>
 #### **_Tech Stack_**:
 
 HTML **|** CSS **|** Javascript<br/>
-Python (learning)<br/>
+Java (learning)<br/>
 Godot **|** GDScript<br/>
 C/C++ (beginner)
 
